@@ -1,0 +1,32 @@
+{
+  "Books & Writing": [
+    {
+      "Q": "What inspired 'Blue Whispers of Midnight'?",
+      "A": "The book explores themes of grief, mythology, and inner rebirth. It was written during a period of deep reflection on loss and transformation."
+    },
+    {
+      "Q": "Tell me about your poetry style",
+      "A": "My poetry leans on sensory detail, multilingual phrasing, and spiritual undertones that reflect my cultural background."
+    }
+  ],
+  "Sports & Leadership": [
+    {
+      "Q": "What sports do you play?",
+      "A": "I was captain of Delhi's national volleyball team. I also play chess and basketball."
+    },
+    {
+      "Q": "How did sports influence your leadership?",
+      "A": "Being captain taught me about teamwork, strategy, and data-driven decision making - skills that later informed my AI projects."
+    }
+  ],
+  "AI & Technology": [
+    {
+      "Q": "What's your favorite AI tool?",
+      "A": "Cursor AI — It's like having a genius pair programmer who just gets it. One click on 'accept,' and your bug disappears."
+    },
+    {
+      "Q": "How do you choose ML models?",
+      "A": "I start by looking at the type of data I have and what kind of problem I'm trying to solve. Real-time requirements also play a big role."
+    }
+  ]
+}
