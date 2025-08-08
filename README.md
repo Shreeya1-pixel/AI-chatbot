@@ -54,6 +54,7 @@ The system maintains multiple layers of knowledge:
 
 <img width="3407" height="1955" alt="image" src="https://github.com/user-attachments/assets/0b82b4ac-4ea1-4782-b302-1d62540a625b" />
 <img width="3411" height="1946" alt="image" src="https://github.com/user-attachments/assets/d76a9c1a-c080-4d72-ab63-4471512db7c0" />
+<img width="3400" height="1929" alt="image" src="https://github.com/user-attachments/assets/380bd720-806b-4f8e-a7bb-0fd254ec9786" />
 <img width="3405" height="1944" alt="image" src="https://github.com/user-attachments/assets/01cd44ca-5bb1-4c9a-82d6-87c8f382beea" />
 <img width="3397" height="1944" alt="image" src="https://github.com/user-attachments/assets/d26ddde1-97ad-44a5-aeef-a6216f225e23" />
 
